@@ -1,0 +1,105 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Om MobilMad</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hos os handler det ikke bare om nem og hurtig mad; det handler om at skabe en uforglemmelig madoplevelse, hvor fælleskabet kan blomstrer, og evige minder kan skabes. </p><p>Vores formål er at gøre det nemt og overskueligt for dig at finde og bestille madvogne fra alle verdens køkkener. Uanset om det er Foodtrucks, Pølsevogne, Kaffecykler, eller andre kulinariske specialiteter. </p><p>Vi brænder for madvogns kulturen her i Danmark! Derfor har vi skabt en platform hvor man nemt kan finde en foodtruck til hver et arrangement.</p><p></p><p>Vi stræber efter at sikre, at dit arrangement bliver en succes, og derfor er din tilfredshed vores øverste prioritet. Vores dedikerede team står altid klar til at yde professionel vejledning og support, og vi går gerne den ekstra mil for at sikre, at alle detaljer bliver taget hånd om, så du kan slappe af og nyde din begivenhed fuldt ud<br/></p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_tHKbNf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CDzEHz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Det der gør os specielle",
+            "heading_size": "h1"
+          }
+        },
+        "text_9Mg9ph": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><h4><strong>Nem Booking:</strong> Med MobilMad kan du spare tid ved at finde og booke din foretrukne foodtruck på ét sted. Vores bookingformular er hurtig og nem at udfylde, og vi vender tilbage til dig inden for 24 timer for at drøfte dine behov nærmere.</h4></li><li><h4><strong>Landsdækkende Service:</strong> Uanset om du planlægger et arrangement i København, Aarhus eller Odense, tilbyder MobilMad landsdækkende service, så du kan få adgang til et bredt udvalg af foodtrucks, uanset hvor i landet du er.</h4></li><li><h4><strong>Professionel Vejledning:</strong> Vores dedikerede team står klar til at hjælpe dig med at få den bedste madoplevelse til dit arrangement. Vi giver dig professionel vejledning og støtte fra start til slut, så du kan slappe af og nyde din begivenhed, mens vi tager os af det praktiske.</h4></li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CDzEHz",
+        "text_9Mg9ph"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/app_images_resizable_IMG_6860_fd3651d3_1543971715668_500.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "image_with_text_tHKbNf"
+  ]
+}

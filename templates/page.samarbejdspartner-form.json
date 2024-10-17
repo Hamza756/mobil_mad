@@ -1,0 +1,209 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "En kaffevogn til dit arrangement.",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "#globo-formbuilder-97021",
+            "button_style_secondary_1": false,
+            "button_label_2": "Læs mere",
+            "button_link_2": "#richText",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2.2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Lej en kaffevogn til dit arrangement</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Går du med tanker om at leje en kaffevogn og forkæle dine gæster med lækker barista kaffe, så er det bestemt en fantastisk ide at kigge i retning af en kaffevogn.</p><p>Kaffevogne findes i flere \"formater\" - de mest udbredte kaffevogne i Danmark er af mærket Piaggio Ape 50 (også kendt som Tuk Tuk). Det er en mobil kaffeknallert med masser af italiensk charme.  Derudover ser man alt fra kaffecykel, trailer eller en mobil kaffebar. <br/></p><p>En kaffemenu inkluderer alle de lækre barista kaffe varianter som man kender fra cafeer - <strong>Café Latte</strong>, <strong>Cappuccino</strong>, <strong>Cortado</strong>, <strong>Iskaffe </strong>og mange flere. Dertil finder man <strong>Varm Chokolade</strong> med flødeskum, <strong>Chai Latte</strong> og te og andre specialiteter. <br/><br/>Fordelene ved at leje en kaffevogn til dit arrangement er mange - først og fremmest slipper du for selv at lave kaffe til dine gæster, hvilket i sig selv er en stor lettelse. Dertil bliver du med garanti en populær vært som sørger for at du og dine gæster får serveret udsøgt barista kaffe. Sidst men ikke mindst så fungerer kaffevognen som et socialt samlingspunkt, hvor gæsterne i hyggelige omgivelser kan danne samtaler under kaffe bestillingen. <br/><br/>Ønsker du et uforpligtende tilbud på en kaffevogn til netop dit event, så udfyld formularen herunder. Pssst.. Vi er landsdækkende og du kan derfor indhente et tilbud om end du er fra Århus, København eller Odense.. eller en anden by :)<br/><br/></p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "1679688963874a2d68": {
+      "type": "apps",
+      "blocks": {
+        "17a1eb2a-beac-494e-9154-58409deebecd": {
+          "type": "shopify://apps/powerful-contact-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "17a1eb2a-beac-494e-9154-58409deebecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "723fdaf9-fddb-46d6-8162-806b71d2415d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6892.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/619169fde192da93740faafe_nobel-coffee-barista-1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "07773ce7-97b7-4ad7-bb6e-aa65e6c239e6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/619169fde192da073d0faafc_nobel-coffee-barista.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-0",
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-1",
+        "07773ce7-97b7-4ad7-bb6e-aa65e6c239e6"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "1679688963874a2d68",
+    "723fdaf9-fddb-46d6-8162-806b71d2415d"
+  ]
+}

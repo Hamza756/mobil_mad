@@ -1,0 +1,135 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lej en foodtruck i hele Danmark",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "#globo-formbuilder-97021",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se madkoncepter",
+            "button_link_2": "shopify://pages/findmadkoncepter",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/tacos-5932654_1920.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Lej en foodtruck<br/></p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lej en Foodtruck i Hele Danmark - ren forkælelse til din begivenhed.</p><p>Går du med tanker du om at tilbyde dine gæster en unik og mindeværdig madoplevelse? Hos Mobilmad.dk kan du leje en foodtruck i hele Danmark og sætte prikken over i'et til din begivenhed. Uanset om du planlægger en mindre privat fest, bryllup, konfirmation, firmaarrangement eller en stor festival ville en af vores foodtrucks kunne klare opgaven. Vores brede udvalg af foodtrucks samt vores landsdækkende service gør det ekstra nemt og tilgængeligt for dig at finde den rette foodtruck til din begivenhed. </p><p>Lad os samarbejde om at sammensætte den perfekte madoplevelse efter dine behov. Tag et kig på de mange valgmuligheder nedeunder og fortæl os dine ønsker ved at sende os en forespørgsel - så kan vi starte en dialog og finde frem til den bedste løsning du har behov for.</p><p></p><p></p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "16845292735b8d7b74": {
+      "type": "apps",
+      "blocks": {
+        "65f3415e-f82c-4674-8a64-c227bc62fe22": {
+          "type": "shopify://apps/powerful-contact-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "65f3415e-f82c-4674-8a64-c227bc62fe22"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "16845292735b8d7b74"
+  ]
+}

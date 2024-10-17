@@ -1,0 +1,135 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Foodtruck Aarhus",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "#globo-formbuilder-97021",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se madkoncepter",
+            "button_link_2": "shopify://pages/findmadkoncepter",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-photo-2010701.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Skal du have en Foodtruck i Aarhus?</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Book en Foodtruck i Aarhus- Perfekt til alle begivenheder!</p><p>Har du planer eller tanker om at holde et arrangement i Aarhus, og vil have en helt special mad oplevelse? Så er MobilMad perfekt til dig og dine gæster. Vi byder på en lang række af diverse Foodtruck til dit event.  Om det er en Kaffevogn du vil have til din 50 års fødselsdag eller en Taco truck til en stor messe, så står vi klar til at give dig den bedste mulige oplevelse! </p><p>MobilMad og vores mange erfarende samarbejdets partnere sørger for at din unikke mad oplevelse bliver tilfredsstillende og giver en helt speciel stemning for dig og dine gæster.    </p><p>Som sagt tilbyder vi mange diverse Foodtrucks, så der er garanteret den perfekte løsning til dig. Udfyld vores formular og lad os klare resten ! </p><p>Vi ser frem til at hjælpesad  om at skabe den perfekte madoplevelse, der opfylder dine ønsker. </p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "16845292735b8d7b74": {
+      "type": "apps",
+      "blocks": {
+        "65f3415e-f82c-4674-8a64-c227bc62fe22": {
+          "type": "shopify://apps/powerful-contact-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "65f3415e-f82c-4674-8a64-c227bc62fe22"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "16845292735b8d7b74"
+  ]
+}

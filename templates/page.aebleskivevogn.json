@@ -1,0 +1,176 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lej en æbleskivevogn",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "shopify://pages/indhent-tilbud",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se Foodtrucks",
+            "button_link_2": "shopify://collections/alle-foodtrucks",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Skaermbillede_2024-08-25_200004.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Æbleskivevogn til din fest !</h2><h2></h2><p></p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\">Indhent Dit Tilbud på en Æbleskivevogn Her</a></p><p>Leder du efter en unik måde at forkæle dine gæster på til dit næste arrangement? En æbleskivevogn er den perfekte løsning! Disse små, runde delikatesser er en favorit blandt både unge og ældre, og de bringer altid et smil til læberne. Med en æbleskivevogn kan du give dine gæster en autentisk dansk oplevelse, der både smager fantastisk og skaber hygge. </p><p>Æbleskiver er mere end blot en snack – de er en oplevelse. Forestil dig duften af friskbagte æbleskiver, der fylder luften, mens dine gæster samles omkring vognen og venter på at smage de sprøde, gyldne kugler. Uanset om du planlægger et julemarked, et bryllup, en fødselsdag eller en julefrokost, vil en æbleskivevogn fra MobilMad gøre dit arrangement mindeværdigt.</p><h4><strong>Hvorfor vælge en æbleskivevogn?</strong></h4><p>Når du vælger at leje en æbleskivevogn, får du en sjov og fleksibel løsning til din fest. Med en æbleskivevogn slipper du for besværet ved selv at skulle tilberede og servere maden. Vi sørger for alt fra opsætning til oprydning, så du kan fokusere på at nyde dit arrangement og bruge tid med dine gæster. Vi tilbyder også en række forskellige pakker, der kan tilpasses efter dine behov og dit budget.</p><h4><strong>Gør dit arrangement uforglemmeligt</strong></h4><p>Æbleskiver skaber en uformel og indbydende atmosfære, der gør dem ideelle til alle slags events. Fra små private sammenkomster til store offentlige arrangementer, vores æbleskivevogne tilføjer en unik touch, der får alle til at føle sig velkomne.</p><p><strong>-Fleksibilitet:</strong> Tilpas vognen til dit event med vores forskellige pakkeløsninger.</p><p><strong>-Professionel Service:</strong> Erfarne kokke sikrer høj kvalitet og service.</p><p><strong>-Autentisk Oplevelse:</strong> Nyd frisklavede æbleskiver i et hyggeligt miljø.</p><h4><strong>Sådan booker du</strong></h4><p><strong>Besøg vores booking side:</strong> Klik her for at <a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\"><strong>indhente et tilbud</strong></a>.</p><p><strong>Vælg din pakke:</strong> Vi tilbyder forskellige pakker, så du kan finde den, der passer bedst til dit arrangement.</p><p><strong>Kontakt os:</strong> Har du spørgsmål eller specielle ønsker? Vi står klar til at hjælpe dig med at skræddersy den perfekte løsning.</p><p></p><p>Kontakt Os i Dag. Vil du høre mere om, hvordan en æbleskivevogn kan gøre din næste fest til noget særligt? </p><p><a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\"><strong>Indhent dit tilbud her</strong></a> og lad os hjælpe dig med at skabe en uforglemmelig oplevelse for dine gæster.</p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "1679688963874a2d68": {
+      "type": "apps",
+      "blocks": {
+        "17a1eb2a-beac-494e-9154-58409deebecd": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "17a1eb2a-beac-494e-9154-58409deebecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collection_list_C4qEnK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YgPAiH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bar-drink"
+          }
+        },
+        "featured_collection_hnA63K": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        },
+        "featured_collection_QjzEfY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YgPAiH",
+        "featured_collection_hnA63K",
+        "featured_collection_QjzEfY"
+      ],
+      "settings": {
+        "title": "Vores Madvogne",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "1679688963874a2d68",
+    "collection_list_C4qEnK"
+  ]
+}

@@ -1,0 +1,258 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title_NJ9BkX": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Menukort",
+            "icon": "clipboard",
+            "content": "<p><strong>Tilbud 1:</strong></p><p>– Spis og drik alt det I kan i 2 timer.<br/>– Flæskestegssandwich og bøfsandwich.<br/> – 3-4 slags pølser m/brød, som hotdogs eller franske hotdogs.<br/>– Sodavand, vand og Cocio</p><p>Pris 5500 excl. moms for 30 personer</p><p>Herudover 110 kr. excl. moms pr. person. Fadøl kan tilkøbes 25 kr excl. moms pr. person</p><p><strong>Tilbud 2:</strong></p><p>– Spis og drik alt det I kan i 2 timer.<br/>– 4-5 slags pølser m/brød, som hotdogs eller franske hotdogs.<br/>– Sodavand, vand og Cocio.</p><p>Pris 5000 excl. moms for 30 personer</p><p>Herudover 100 kr. excl. moms pr. person. Fadøl kan tilkøbes 25 kr excl. moms pr. person</p><p><strong>Tilbud 3:</strong></p><p>– Spis og drik alt det I kan i 2 timer.<br/>– Burgere, cheeseburgere og baconburgere<br/>– 3-4 slags pølser m/brød, som hotdogs eller franske hotdogs.<br/>– Sodavand, vand og Cocio.</p><p>Pris 6000 excl. moms for 30 personer</p><p>Herudover 110 kr. excl. moms pr. person. Fadøl kan tilkøbes 25 kr excl. moms pr. person</p><p>Tilbud 4 og 5 kan tilsendes ved at indhente tilbud!</p>",
+            "page": ""
+          }
+        },
+        "06e2246f-4584-4fd8-99a0-6a522e9b7af0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Vejledende priser",
+            "icon": "price_tag",
+            "content": "<p>Priser varierer på hvilket tilbud ønskes. </p><p>Start priser:</p><p>Pølsevogn med 1 mandskab/personale: 2.600 excl. moms (inkl. 2 timers serving)</p><p>Pølsevogn med 2 mandskab/personale: 3.400 excl. moms (inkl. 2 timers serving)</p><p>Pr. pølse inkl. tilbehør (røde og ristet) </p><p>Andre ting kan tilføjes ved ydeliggere kontakt.   </p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Vigtig info",
+            "icon": "question_mark",
+            "content": "<p>16 amp med passende stik </p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Hvilke områder dækker Foodtrucken ?",
+            "icon": "truck",
+            "content": "<p>Hele landet!!</p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Hvad er størrelsen på vognen?",
+            "icon": "ruler",
+            "content": "<p>Mål på vognen:  6-7m længde 2,5m brede  2,95m højde</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_NJ9BkX",
+        "vendor",
+        "description",
+        "collapsible-row-0",
+        "06e2246f-4584-4fd8-99a0-6a522e9b7af0",
+        "collapsible-row-3",
+        "collapsible-row-1",
+        "collapsible-row-2"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "right",
+        "gallery_layout": "thumbnail",
+        "media_size": "small",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lækre pølser til dit arrangement!",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Få et konkret tilbud af selve Pølse Traileren. Du skal blot udfylde formularen herunder.</p>",
+            "text_style": "body"
+          }
+        },
+        "cf29b6ec-8e82-4e0c-8ce1-71857e4d6ca9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Indhent tilbud",
+            "button_link": "#globo-formbuilder-97021"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1",
+        "cf29b6ec-8e82-4e0c-8ce1-71857e4d6ca9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/unnamed_ba23f131-61ca-4c7f-b5cc-750f581529ef.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_FYYLQP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gTrdwk": {
+          "type": "column",
+          "settings": {
+            "title": "Mange års erfaring",
+            "text": "<p>Eksperter i festudlejning og pølseservering gennem 17 år!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e8LGtf": {
+          "type": "column",
+          "settings": {
+            "title": "Nem booking!",
+            "text": "<p>Vi hjælper dig fra A-B når du indhenter et tilbud fra Keldspølser og vognudlejning. Vi sørger for at sammensætte den perfekte løsning til netop dine behov.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gTrdwk",
+        "column_e8LGtf"
+      ],
+      "settings": {
+        "title": "Fordele ved Keldspølser og vognudlejning",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16911909037a620686": {
+      "type": "apps",
+      "blocks": {
+        "35d8a370-e8df-439f-9491-70c7dff4a3f3": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "35d8a370-e8df-439f-9491-70c7dff4a3f3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Andre spændende Foodtrucks",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_NAfRVq": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Andre spændende Foodtrucks!",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "madvogn",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-with-text",
+    "multicolumn_FYYLQP",
+    "16911909037a620686",
+    "product-recommendations",
+    "featured_collection_NAfRVq"
+  ]
+}

@@ -1,0 +1,79 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "collection.json",
+  "context": {
+    "market": "dk"
+  },
+  "sections": {
+    "product-tags": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+        "0d696bf0-7629-4b1d-8f90-cf180252f022": {
+          "settings": {
+            "product_tag": "Fyn"
+          }
+        },
+        "0d4c57cb-d3e8-4da2-b2bf-527aabba6a29": {
+          "settings": {
+            "product_tag": "Sjælland"
+          }
+        },
+        "09bde822-3dd8-41e7-a536-f1d3e922b33b": {
+          "settings": {
+            "product_tag": "Nordsjælland"
+          }
+        },
+        "4c7a03f1-db3e-4779-90f2-ed748398371f": {
+          "settings": {
+            "product_tag": "København"
+          }
+        },
+        "6c45d3dc-c935-4da7-a901-b3227775996f": {
+          "settings": {
+            "product_tag": "Vestjylland"
+          }
+        },
+        "942bcab7-8928-4d95-af29-6d2205a8322a": {
+          "settings": {
+            "product_tag": "Østjylland"
+          }
+        },
+        "5a74eb9f-9fa1-44e4-9562-5f128b0c1c02": {
+          "settings": {
+            "product_tag": "Nordjylland"
+          }
+        },
+        "7543930e-d249-45ee-aaa0-8763b1ddfeba": {
+          "settings": {
+            "product_tag": "Sydjylland"
+          }
+        }
+      },
+      "block_order": [
+        "0d696bf0-7629-4b1d-8f90-cf180252f022",
+        "0d4c57cb-d3e8-4da2-b2bf-527aabba6a29",
+        "09bde822-3dd8-41e7-a536-f1d3e922b33b",
+        "4c7a03f1-db3e-4779-90f2-ed748398371f",
+        "6c45d3dc-c935-4da7-a901-b3227775996f",
+        "942bcab7-8928-4d95-af29-6d2205a8322a",
+        "5a74eb9f-9fa1-44e4-9562-5f128b0c1c02",
+        "7543930e-d249-45ee-aaa0-8763b1ddfeba"
+      ]
+    }
+  },
+  "order": [
+    "product-tags",
+    "banner",
+    "product-grid"
+  ]
+}

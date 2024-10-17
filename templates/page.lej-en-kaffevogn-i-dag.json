@@ -1,0 +1,188 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lej en kaffevogn i dag !",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "shopify://pages/indhent-tilbud",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se foodtrucks",
+            "button_link_2": "shopify://collections/alle-foodtrucks",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/g-form-122590-appearance.backgroundImage-lzq2ayw4-vMaOMOYWTWepBeQYknKr_6d395023-4ba0-4395-b46d-13aba6911c44.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Book din kaffevogn med et klik !</h2><p></p><p></p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Drømmer du om at tilføje noget særligt til dit næste arrangement? Hos MobilMad kan du indsende en forespørgsel i dag og leje en kaffevogn, der vil løfte stemningen og forkæle dine gæster med friskbrygget kaffe. Uanset om du planlægger en fest i Horsens, et firmaevent i København eller en privat sammenkomst i Odense, har vi den perfekte mobile kaffebar til dig. At booke en kaffevogn hos os er både nemt og hurtigt. Med et enkelt klik kan du sikre dig en mobil kaffevogn, der passer til netop dit arrangement. Vores kaffevogne er ikke kun populære i større byer som København og Odense, men også i mindre byer som Nykøbing Falster og Horsens. Uanset hvor i landet du befinder dig, står vi klar til at levere en uforglemmelig kaffeoplevelse.</p><p>Når du vælger at booke en madvogn hos os, åbner du dørene til et væld af kulinariske muligheder. Fra saftige burgere og sprøde pizzaer til gourmet hotdogs og frisklavet kaffe – vi har en madvogn til enhver smag og anledning. Derudover kan vores pølsevogn og kaffevogn tilføje et charmerende, nostalgisk touch, som både børn og voksne vil elske. Lad os sammen skabe den perfekte madoplevelse, der matcher dine behov og ønsker. Tag et kig på vores brede udvalg af madvogne nedenfor, og send os en forespørgsel. Vi står klar til at tage en snak om, hvordan vi bedst kan opfylde dine ønsker og sørge for, at dit arrangement bliver en succes. Med en madvogn til fest får du ikke bare serveret lækker mad, men også skabt den gode stemning, som gør din begivenhed helt særlig.</p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_4xwDjF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Indhent Tilbud",
+            "button_link": "shopify://pages/indhent-tilbud",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2",
+        "button_4xwDjF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "1679688963874a2d68": {
+      "type": "apps",
+      "blocks": {
+        "17a1eb2a-beac-494e-9154-58409deebecd": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "17a1eb2a-beac-494e-9154-58409deebecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collection_list_C4qEnK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YgPAiH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kaffevogn"
+          }
+        },
+        "featured_collection_hnA63K": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        },
+        "featured_collection_QjzEfY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YgPAiH",
+        "featured_collection_hnA63K",
+        "featured_collection_QjzEfY"
+      ],
+      "settings": {
+        "title": "Vores Madvogne",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "1679688963874a2d68",
+    "collection_list_C4qEnK"
+  ]
+}

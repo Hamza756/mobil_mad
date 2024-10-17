@@ -1,0 +1,119 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "209b29a0-221b-4ee0-b1dc-487afb6a900f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hvilken madkoncept leder du efter?</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du kan se nærmere på de forskellige typer mad du kan få til dit arrangement når du booker en madvogn, kaffevogn, dessertvogn eller mobil bar igennem os. Se nærmere på de mange muligheder eller indhent et skræddersyet tilbud hvor vi hjælper dig med at finde den perfekte foodtruck til dit arrangement.</p>"
+          }
+        },
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Indhent tilbud",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-0",
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-1",
+        "template--18233731416373__209b29a0-221b-4ee0-b1dc-487afb6a900f-16781858624cec8c5d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "24a3c2d4-0288-4b8a-9581-a51b8a3243d9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Internationale madkoncepter</p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-0",
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-1",
+        "template--18233731416373__24a3c2d4-0288-4b8a-9581-a51b8a3243d9-16781858624cec8c5d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "f0bde7f9-79c7-4e66-b484-e074d5255e74": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-fdd2b58f"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "209b29a0-221b-4ee0-b1dc-487afb6a900f",
+    "24a3c2d4-0288-4b8a-9581-a51b8a3243d9",
+    "f0bde7f9-79c7-4e66-b484-e074d5255e74"
+  ]
+}

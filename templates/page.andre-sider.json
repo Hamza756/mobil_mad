@@ -1,0 +1,219 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_hgc9Eg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Xc7CqU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pexels-energepic-com-27411-3021394.jpg",
+            "title": "Bar til leje i hele Danmark",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/bar-til-leje-i-hele-danmark"
+          }
+        },
+        "column_trw77y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shutterstock_1775548325.jpg",
+            "title": "Book en Foodtruck",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/book-en-foodtruck"
+          }
+        },
+        "column_bNaPpx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/zapp-thai-379066.jpg",
+            "title": "Lej en Madvogn og få street fod til din feest",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/gor-festen-sjov-nem-og-laekker-lej-en-madvogn-nu"
+          }
+        },
+        "column_BJDBjm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sunisas-streetfood-959565.jpg",
+            "title": "Book en madvogn til dit arrangement",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/book-en-madvogn-til-dit-arrangement-god-stemning-lige-til-doren"
+          }
+        },
+        "column_UAarh7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pexels-photo-110472_a71832d7-7553-4c2f-a879-fc4699f38b90.webp",
+            "title": "Lej en bartender",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/lej-en-bartender"
+          }
+        },
+        "column_gQ46Jr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gourmet-polsevogn-479102.jpg",
+            "title": "Lej en pølsevogn",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/lej-en-polsevogn"
+          }
+        },
+        "column_E4DiVC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pexels-cottonbro-studio-3171837.jpg",
+            "title": "Foodtruck til fest - Sjælland, Fyn og Jylland",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/foodtruck-til-fest"
+          }
+        },
+        "column_MeR4RM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/nobel-kaffe-169796.png",
+            "title": "Foodtruck til bryllup",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/foodtruck-til-bryllup"
+          }
+        },
+        "column_cm3JFA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/g-form-0-appearance.backgroundImage-lzpt272d-Skaermbillede_2024-08-11_151921.png",
+            "title": "Lej en foodtruck",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/lej-en-foodtruck"
+          }
+        },
+        "column_JQ9xwj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/unnamed.png",
+            "title": "Lej en kaffevogn i dag",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/lej-en-kaffevogn-i-dag"
+          }
+        },
+        "column_96iWpn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/italian-street-treats-190961.png",
+            "title": "Street Food Aarhus",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/street-food-aarhus"
+          }
+        },
+        "column_kpe7ak": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skaermbillede_2024-08-25_200004.jpg",
+            "title": "Æbleskivevogn",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/lej-en-aebleskivevogn-frisklavede-aebleskiver-til-dit-arrangement"
+          }
+        },
+        "column_rdVMVW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pexels-markus-winkler-1430818-19856566_c0ff463e-ec2b-4583-8ba0-b21ca3569729.png",
+            "title": "Thai mad på hjul !",
+            "text": "",
+            "link_label": "Se side",
+            "link": "shopify://pages/thai-mad-pa-hjul-bestil-thai-mad-til-dit-arrangement"
+          }
+        }
+      },
+      "block_order": [
+        "column_Xc7CqU",
+        "column_trw77y",
+        "column_bNaPpx",
+        "column_BJDBjm",
+        "column_UAarh7",
+        "column_gQ46Jr",
+        "column_E4DiVC",
+        "column_MeR4RM",
+        "column_cm3JFA",
+        "column_JQ9xwj",
+        "column_96iWpn",
+        "column_kpe7ak",
+        "column_rdVMVW"
+      ],
+      "settings": {
+        "title": "Vores forskellige sider",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_GF6JGH": {
+      "type": "rich-text",
+      "blocks": {
+        "button_cbmcEz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tilbage til hjemmeside",
+            "button_link": "https://mobilmad.com/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_cbmcEz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_hgc9Eg",
+    "rich_text_GF6JGH"
+  ]
+}

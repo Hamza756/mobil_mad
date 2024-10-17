@@ -1,0 +1,64 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ba7296d3-a50a-4970-b67c-0c36feb02f20": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Hvilket madkoncept leder du efter? Vi har foodtrucks af enhver slags!</h2>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du kan se nærmere på de forskellige typer mad du kan få til dit arrangement når du booker en madvogn, kaffevogn, dessertvogn eller mobil bar igennem os. Se nærmere på de mange muligheder eller indhent et skræddersyet tilbud hvor vi hjælper dig med at finde den perfekte foodtruck til dit arrangement.</p>"
+          }
+        },
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Indhent Tilbud",
+            "button_link": "shopify://pages/indhent-tilbud",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-0",
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-1",
+        "template--18942013145397__ba7296d3-a50a-4970-b67c-0c36feb02f20-16831099770d36c483-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "pf-aa2d0e8f": {
+      "type": "pf-aa2d0e8f",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ba7296d3-a50a-4970-b67c-0c36feb02f20",
+    "pf-aa2d0e8f"
+  ]
+}

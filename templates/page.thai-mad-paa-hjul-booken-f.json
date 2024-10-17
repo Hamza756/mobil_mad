@@ -1,0 +1,179 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thai Street Food",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "#globo-formbuilder-97021",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se madkoncepter",
+            "button_link_2": "shopify://pages/findmadkoncepter",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-markus-winkler-1430818-19856566.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Vil du have en Thai Foodtruck til dit event?</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_6Q4j6i": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"da\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Thai Foodtruck Landing Page</title>\n    <style>\n        /* Generel styling for hele siden */\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #f4f4f4;\n            margin: 0;\n            padding: 0;\n        }\n\n        .container {\n            max-width: 900px;\n            margin: 20px auto;\n            padding: 20px;\n            background-color: #fff;\n            border-radius: 10px;\n            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n            text-align: center;\n        }\n\n        h1, h2 {\n            color: #333;\n            text-align: center;\n        }\n\n        p {\n            color: #555;\n            font-size: 16px;\n            line-height: 1.6;\n            text-align: center;\n        }\n\n        /* Call-to-action button styling */\n        .cta-button {\n            display: inline-block;\n            padding: 12px 25px;\n            margin: 20px auto;\n            font-size: 18px;\n            color: #fff;\n            background-color: #FFCC00; /* Gul farve som i logoet */\n            border-radius: 5px;\n            text-align: center;\n            text-decoration: none;\n            transition: background-color 0.3s ease;\n        }\n\n        .cta-button:hover {\n            background-color: #ff9900; /* Mørkere gul ved hover */\n        }\n\n        /* Container styling for foodtruck section */\n        .thai-foodtruck-section {\n            background-color: #f9f9f9;\n            padding: 30px;\n            border-radius: 10px;\n            margin: 40px 0;\n            text-align: center;\n            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n        }\n\n        /* Title styling */\n        .thai-foodtruck-section h2 {\n            color: #333;\n            font-size: 28px;\n            margin-bottom: 15px;\n        }\n\n        /* Paragraph styling */\n        .thai-foodtruck-section p {\n            color: #555;\n            font-size: 16px;\n            margin-bottom: 25px;\n        }\n\n        /* Card styling */\n        .foodtruck-card {\n            background-color: #fff;\n            border: 2px solid #007bff; /* Blue outline */\n            border-radius: 10px;\n            padding: 20px;\n            margin-bottom: 20px;\n            transition: all 0.3s ease;\n        }\n\n        /* Hover effect on cards */\n        .foodtruck-card:hover {\n            border-color: #ff4500; /* Orange outline on hover */\n            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);\n        }\n\n        /* Foodtruck name styling */\n        .foodtruck-card h3 {\n            margin: 0;\n            font-size: 22px;\n            color: #007bff;\n        }\n\n        /* Link styling */\n        .foodtruck-card h3 a {\n            text-decoration: none;\n            color: inherit;\n        }\n\n        /* Link hover effect */\n        .foodtruck-card h3 a:hover {\n            color: #ff4500; /* Change color on hover */\n        }\n\n        /* Description text */\n        .foodtruck-card p {\n            color: #666;\n            font-size: 15px;\n            margin-top: 10px;\n        }\n    </style>\n</head>\n<body>\n\n<div class=\"container\">\n   \n        Leder du efter en autentisk og smagfuld madoplevelse til dit næste event? Med en thai madvogn fra MobilMad kan du servere lækker og eksotisk thai street food, der med garanti vil imponere dine gæster. Uanset om du planlægger en fødselsdag, firmafest eller et bryllup, vil vores thailandske foodtrucks bringe smagen af Thailand direkte til dig.\n    </p>\n    <p>\n        Fra de ikoniske Pad Thai nudler til spicy grøn karry – vores dygtige kokke tilbereder retterne friske foran dine gæster, så de kan opleve den autentiske smag og duft af Thailand. Vores madvogne er perfekt til både små og store arrangementer, og vi sørger for alt fra opsætning til oprydning.\n    </p>\n\n    <!-- Indhent tilbud knap -->\n    <a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\" class=\"cta-button\">Indhent tilbud her</a>\n\n    <h2>Hvorfor vælge en Thai Foodtruck til dit arrangement?</h2>\n    <p>\n        Når du lejer en thai madvogn fra MobilMad, får du en smagfuld og fleksibel løsning, som gør din fest helt uforglemmelig. Her er nogle af fordelene:\n    </p>\n    <ul>\n        <li>Autentisk oplevelse: Vi tilbyder ægte thailandske retter tilberedt med friske ingredienser og kærlighed til madlavningen.</li>\n        <li>Fleksibilitet: Vælg mellem flere forskellige pakkeløsninger, så det passer perfekt til dit event og dine gæsters ønsker.</li>\n        <li>Ingen besvær: Vores kokke og personale tager sig af alt, så du kan fokusere på at nyde din fest.</li>\n    </ul>\n\n    <!-- Thai foodtruck section -->\n    <div class=\"thai-foodtruck-section\">\n        <h2>Vælg din Thai Foodtruck</h2>\n        <p>MobilMad tilbyder en række forskellige thailandske madvogne, så du kan vælge den, der passer bedst til dit arrangement:</p>\n        \n        <div class=\"foodtruck-card\">\n            <h3><a href=\"https://mobilmad.com/products/sunisa-s-streetfood\">Sunisa’s Streetfood</a></h3>\n            <p>En autentisk oplevelse med friske ingredienser og traditionel thailandsk madlavning.</p>\n        </div>\n        \n        <div class=\"foodtruck-card\">\n            <h3><a href=\"https://mobilmad.com/products/zapp-thai\">Zapp Thai</a></h3>\n            <p>Smagfuld og moderne thai street food med et twist.</p>\n        </div>\n\n        <div class=\"foodtruck-card\">\n            <h3><a href=\"https://mobilmad.com/products/bangkok-take-away\">Bangkok Take Away</a></h3>\n            <p>Klassiske thailandske retter, der bringer ægte smag af Bangkok til dit event.</p>\n        </div>\n    </div>\n\n    <h2>Gør din fest til noget særligt med Thai Street Food</h2>\n    <p>\n        Forestil dig duften af eksotiske krydderier, smagen af frisklavet mad og den uformelle stemning, der opstår, når gæsterne samles omkring vores foodtruck. Vores thai madvogne skaber en festlig og afslappet atmosfære, som får alle til at føle sig velkomne. Perfekt til sommerfester, firmaevents, markeder og private sammenkomster.\n    </p>\n\n    <!-- Indhent tilbud knap -->\n    <a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\" class=\"cta-button\">Indhent tilbud her</a>\n\n</div>\n\n</body>\n</html>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "16845292735b8d7b74": {
+      "type": "apps",
+      "blocks": {
+        "65f3415e-f82c-4674-8a64-c227bc62fe22": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "65f3415e-f82c-4674-8a64-c227bc62fe22"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collection_list_PRAYiC": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_gwccaf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        },
+        "featured_collection_HAV98T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kaffevogn"
+          }
+        },
+        "featured_collection_bAJwMt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_gwccaf",
+        "featured_collection_HAV98T",
+        "featured_collection_bAJwMt"
+      ],
+      "settings": {
+        "title": "Flere Foodtrucks",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "custom_liquid_6Q4j6i",
+    "16845292735b8d7b74",
+    "collection_list_PRAYiC"
+  ]
+}

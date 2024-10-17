@@ -1,0 +1,491 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skal du have en madvogn til dit arrangement?",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Danmarks foodtrucks samlet et sted.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Find Madkoncept",
+            "button_link_1": "shopify://pages/findmadkoncepter",
+            "button_style_secondary_1": true,
+            "button_label_2": "Indhent tilbud",
+            "button_link_2": "#globo-formbuilder-97021",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hamburger-and-fries.jpg",
+        "image_2": "shopify://shop_images/coffee-and-cake.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "f1f23067-0097-41ee-bf78-38fa3bfc5c55": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17632064635189__f1f23067-0097-41ee-bf78-38fa3bfc5c55-1687037947662662f8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dit foodtruck univers",
+            "heading_size": "h1"
+          }
+        },
+        "template--17632064635189__f1f23067-0097-41ee-bf78-38fa3bfc5c55-1687037947662662f8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi har samlet nogle af Danmarks bedste foodtrucks i et sted. Få et nemt overblik over hvilke foodtrucks du kan booke til dit arrangement, uanset hvor i Danmark. Udforsk de forskellige madkoncepter og vælg den menu der passer dig og dine gæster bedst. Du kan både finde foodtrucks, kaffevogne, mobil bar og endda dessertvogne.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17632064635189__f1f23067-0097-41ee-bf78-38fa3bfc5c55-1687037947662662f8-0",
+        "template--17632064635189__f1f23067-0097-41ee-bf78-38fa3bfc5c55-1687037947662662f8-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/619169fde192da073d0faafc_nobel-coffee-barista_1.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_LdkAjX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pAbYDJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Tilfredse virksomheder vi har hjulpet </p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pAbYDJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_D4knQi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_93mMAM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bki_logo_f272a14b-6569-454a-971e-c847876e5de9.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KB3BVr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/rc-logo-right_2ed6420e-052a-435e-a0cb-178d6e5675c8.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AD84fQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ikea-logo-blue-yellow-2018.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_thLpVD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOreal-Logo_1ae7ae39-70f8-4bf4-a526-a88dd7fa31cd.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_93mMAM",
+        "column_KB3BVr",
+        "column_AD84fQ",
+        "column_thLpVD"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
+    "1c3489e9-73ab-48d2-b7a5-79724c8b9498": {
+      "type": "collection-list",
+      "blocks": {
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        },
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kaffevogn"
+          }
+        },
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        },
+        "bfe0fca5-a8e6-4146-b3ab-c0033ee722b9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bar-drink"
+          }
+        }
+      },
+      "block_order": [
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-0",
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-1",
+        "template--17632064635189__1c3489e9-73ab-48d2-b7a5-79724c8b9498-16738963093b5e9d8b-2",
+        "bfe0fca5-a8e6-4146-b3ab-c0033ee722b9"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Hvilken slags madvogn leder du efter?",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hvor vil du booke en madvogn?</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column3",
+        "column2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "zeno_section_gE3GJQ": {
+      "type": "zeno-section",
+      "settings": {
+        "section_id": "10455"
+      }
+    },
+    "collection_list_wahBE8": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_n3kThH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        },
+        "featured_collection_y9xzyj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kaffevogn"
+          }
+        },
+        "featured_collection_XVckTJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_n3kThH",
+        "featured_collection_y9xzyj",
+        "featured_collection_XVckTJ"
+      ],
+      "settings": {
+        "title": "Find din Madvogn her",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1686863624a529db10": {
+      "type": "apps",
+      "blocks": {
+        "fda86945-83f4-4aeb-aad3-7e920e74b3a3": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "fda86945-83f4-4aeb-aad3-7e920e74b3a3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "e6e77e78-48af-44e5-9333-8f365f439992": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "f1f23067-0097-41ee-bf78-38fa3bfc5c55",
+    "rich_text_LdkAjX",
+    "multicolumn_D4knQi",
+    "1c3489e9-73ab-48d2-b7a5-79724c8b9498",
+    "rich_text",
+    "featured_collection",
+    "collage",
+    "video",
+    "multicolumn",
+    "zeno_section_gE3GJQ",
+    "collection_list_wahBE8",
+    "1686863624a529db10",
+    "e6e77e78-48af-44e5-9333-8f365f439992"
+  ]
+}

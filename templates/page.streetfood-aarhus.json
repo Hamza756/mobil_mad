@@ -1,0 +1,250 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Street Food Aarhus",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Indhent tilbud",
+            "button_link_1": "shopify://pages/indhent-tilbud",
+            "button_style_secondary_1": false,
+            "button_label_2": "Se Foodtrucks",
+            "button_link_2": "shopify://collections/alle-foodtrucks",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-0",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-1",
+        "template--18442788995381__d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6-1679688403ce0ac080-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/g-form-122590-appearance.backgroundImage-lzq2ayw4-vMaOMOYWTWepBeQYknKr_6d395023-4ba0-4395-b46d-13aba6911c44.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "e75814ea-968b-49e2-8d23-5f099de65fd4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Streetfood Aarhus: Oplev det bedste af byens madscene</h2><h2></h2><p></p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Streetfood i Aarhus: Se byens bedste madoplevelser</strong></p><p><a href=\"/collections/madvogn\" target=\"_blank\" title=\"Madvogn\">Aarhus Madvogne på MobilMad.com</a> | <a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\">Indhent Tilbud på en Madvogn</a></p><p>Aarhus er en by, der virkelig ved, hvordan man skaber en god stemning – og maden spiller en stor rolle i det. Her er streetfood ikke bare et hurtigt måltid, men en oplevelse, der bringer mennesker sammen og skaber minder. Velkommen til Streetfood Aarhus – hvor hver bid er en rejse, og hver ret fortæller sin egen historie.</p><p><strong>Hvorfor Prøve Streetfood i Aarhus?</strong></p><p><strong>🌍 Smage fra Hele Verden:</strong> Aarhus' streetfood-scene spænder vidt. Fra sprøde pizzaer til saftige flæskestegssandwich – der er noget for alle.</p><p><strong>🎉 En Levende og Festlig Atmosfære:</strong> Maden er centrum for fest og fællesskab, hvor stemningen løftes af god mad, musik og glade mennesker.</p><p><strong>🍴 Mad Lavet med Kærlighed:</strong> Passionerede kokke skaber unikke og velsmagende retter, der gør hver bid uforglemmelig.</p><p><strong>Mød Mobilmads Streetfood-Stjerner i Aarhus</strong></p><p><strong>🚚 </strong><a href=\"https://mobilmad.com/products/pizzavogn-arhus\" target=\"_blank\"><strong>Pizzavogn Århus</strong></a><strong>:</strong> Sprøde, lækre pizzaer lavet på friske råvarer, et hit til enhver fest.</p><p><strong>🍕 </strong><a href=\"https://mobilmad.com/products/arancino-bar\" target=\"_blank\"><strong>Arancino Bar</strong></a><strong>:</strong> Smagen af Sicilien med sprøde risottokugler – perfekt til noget anderledes og autentisk.</p><p><strong>🐷 </strong><a href=\"/products/den-muntre-gris\" target=\"_blank\" title=\"Den Muntre Gris\"><strong>Den Muntre Gris</strong></a><strong>:</strong> Klassisk dansk mad med flæskestegssandwich og andre danske favoritter.</p><p><strong>Book Streetfood til Dit Næste Arrangement i Aarhus</strong></p><p>Skal du arrangere en fest, en firmaevent eller en anden sammenkomst i Aarhus? Hvorfor ikke gøre det ekstra specielt ved at bringe den autentiske streetfood-oplevelse direkte til din dør? Med Mobilmad kan du nemt booke nogle af byens bedste madvogne til din begivenhed.</p><p><strong>Indhent Tilbud på en Madvogn</strong>: <a href=\"https://form.globosoftware.net/share/mobil-mad/122746?locale=da\" target=\"_blank\">Link</a></p><p><strong>Læs Mere om Aarhus Madvogne på MobilMad.com</strong>: <a href=\"/pages/foodtruck-aarhus\" target=\"_blank\" title=\"Foodtruck Aarhus\">Link</a></p><p>Er du klar til at gøre din næste fest til noget helt særligt? Kontakt Mobilmad i dag, og lad os hjælpe dig med at planlægge en streetfood-oplevelse, som dine gæster vil snakke om længe efter.</p>"
+          }
+        },
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-0",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-1",
+        "template--18442788995381__e75814ea-968b-49e2-8d23-5f099de65fd4-1679688150b0e02d4f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "1679688963874a2d68": {
+      "type": "apps",
+      "blocks": {
+        "17a1eb2a-beac-494e-9154-58409deebecd": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "17a1eb2a-beac-494e-9154-58409deebecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "collection_list_C4qEnK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YgPAiH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bar-drink"
+          }
+        },
+        "featured_collection_hnA63K": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        },
+        "featured_collection_QjzEfY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YgPAiH",
+        "featured_collection_hnA63K",
+        "featured_collection_QjzEfY"
+      ],
+      "settings": {
+        "title": "Vores Madvogne",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "723fdaf9-fddb-46d6-8162-806b71d2415d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/unnamed_4dec027b-662f-45eb-81a7-b8c5821fd02f.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pizzavogn-arhus-650685.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1947b3d1-6a14-4600-be0c-8e5d961c314f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/arancino-bar-204277.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-0",
+        "template--18442788995381__723fdaf9-fddb-46d6-8162-806b71d2415d-16797699981f734599-1",
+        "1947b3d1-6a14-4600-be0c-8e5d961c314f"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d1cb1481-4e77-4fb7-b6f0-e7ee289bdea6",
+    "e75814ea-968b-49e2-8d23-5f099de65fd4",
+    "1679688963874a2d68",
+    "collection_list_C4qEnK",
+    "723fdaf9-fddb-46d6-8162-806b71d2415d"
+  ]
+}

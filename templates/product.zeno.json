@@ -1,0 +1,255 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Menukort",
+            "icon": "bottle",
+            "content": "<p>Alle slags barista kaffe:</p><p>- Latte</p><p>- Cappuccino</p><p>- Flatwhite<br/><br/>- Americano<br/><br/>- Cortado</p><p>- Espresso<br/><br/>- Mocha<br/><br/>Varme Drikke:</p><p>- Chai Latte<br/>- Varm chokolade m. flødeskum<br/>- Te<br/><br/>Mad:<br/>Frisklavede søde pandekager med..<br/>- Nutella<br/>- Banan<br/>- Sukker<br/>- Syltetøj<br/>- Kokos<br/>- Peanut butter<br/>- Karamel<br/>- Flødeskum<br/>- Vanilie Is</p><p><br/>Andre tilvalg:<br/>- Frappé<br/>- Iskaffe<br/>- Alkohol menu (Irish Coffee, Coffee Bailey, Espresso Martini, mm)<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Hvilke områder dækker Nobel Kaffe?",
+            "icon": "truck",
+            "content": "<p>Hele Sjælland - Alt transport og opsætning er GRATIS.</p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Hvad er størrelsen på vognen?",
+            "icon": "ruler",
+            "content": "<p>1 m bred x 1.8 m lang x 1.20 m høj</p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Kort om Nobel Kaffe",
+            "icon": "heart",
+            "content": "<p>Nobel Kaffe er en dansk familieejet virksomhed. Nobel kaffe bestræber sig med at yde den absolut bedste service når man bestiller en kaffevogn. Mange års erfaring både med private og erhvervs arrangementer. </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lej en kaffevogn med barista fra  Nobel Kaffe",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Få et tilbud på leje af kaffevogn direkte fra Nobel Kaffe. Du skal blot udfylde formular herunder. </p>",
+            "text_style": "body"
+          }
+        },
+        "cf29b6ec-8e82-4e0c-8ce1-71857e4d6ca9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Indhent tilbud",
+            "button_link": "#globo-formbuilder-97021"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1",
+        "cf29b6ec-8e82-4e0c-8ce1-71857e4d6ca9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/619169fde192da073d0faafc_nobel-coffee-barista.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hassle-Free Exchanges",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1691190180631dde83": {
+      "type": "apps",
+      "blocks": {
+        "13dc2766-6dfe-4eb6-8d3a-847267074207": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "13dc2766-6dfe-4eb6-8d3a-847267074207"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Andre spændende foodtrucks..",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "zeno-product": {
+      "type": "zeno-product",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "zeno-product",
+    "image-with-text",
+    "multicolumn",
+    "1691190180631dde83",
+    "product-recommendations"
+  ]
+}

@@ -1,0 +1,176 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_list_gCQt8N": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FqcW3x": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madvogn"
+          }
+        },
+        "featured_collection_kiieXH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dessertvogn"
+          }
+        },
+        "featured_collection_7jybqX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kaffevogn"
+          }
+        },
+        "featured_collection_4NBC7m": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bar-drink"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FqcW3x",
+        "featured_collection_kiieXH",
+        "featured_collection_7jybqX",
+        "featured_collection_4NBC7m"
+      ],
+      "settings": {
+        "title": "Hvilken slags vogn leder du efter ?",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-tags": {
+      "type": "collection-tag-filter",
+      "blocks": {
+        "0d696bf0-7629-4b1d-8f90-cf180252f022": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Fyn"
+          }
+        },
+        "0d4c57cb-d3e8-4da2-b2bf-527aabba6a29": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Sjælland"
+          }
+        },
+        "09bde822-3dd8-41e7-a536-f1d3e922b33b": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Nordsjælland"
+          }
+        },
+        "4c7a03f1-db3e-4779-90f2-ed748398371f": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "København"
+          }
+        },
+        "6c45d3dc-c935-4da7-a901-b3227775996f": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Østjylland"
+          }
+        },
+        "942bcab7-8928-4d95-af29-6d2205a8322a": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Vestjylland"
+          }
+        },
+        "5a74eb9f-9fa1-44e4-9562-5f128b0c1c02": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Nordjylland"
+          }
+        },
+        "7543930e-d249-45ee-aaa0-8763b1ddfeba": {
+          "type": "collection_tag",
+          "settings": {
+            "product_tag": "Sønderjylland"
+          }
+        }
+      },
+      "block_order": [
+        "0d696bf0-7629-4b1d-8f90-cf180252f022",
+        "0d4c57cb-d3e8-4da2-b2bf-527aabba6a29",
+        "09bde822-3dd8-41e7-a536-f1d3e922b33b",
+        "4c7a03f1-db3e-4779-90f2-ed748398371f",
+        "6c45d3dc-c935-4da7-a901-b3227775996f",
+        "942bcab7-8928-4d95-af29-6d2205a8322a",
+        "5a74eb9f-9fa1-44e4-9562-5f128b0c1c02",
+        "7543930e-d249-45ee-aaa0-8763b1ddfeba"
+      ],
+      "settings": {
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1692906319f606e267": {
+      "type": "apps",
+      "blocks": {
+        "e8e8a6ef-0041-45cc-ae59-d7778a010af4": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"OTcwMjE=\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "e8e8a6ef-0041-45cc-ae59-d7778a010af4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "collection_list_gCQt8N",
+    "product-tags",
+    "banner",
+    "product-grid",
+    "1692906319f606e267"
+  ]
+}

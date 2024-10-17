@@ -1,0 +1,41 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1688422788fd408864": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "custom_liquid_bURWJA": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"da\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Vores Leverandører</title>\n    <style>\n        /* Baggrundsfarve og font */\n        body {\n            font-family: 'Arial', sans-serif; /* Juster font til en lignende skrifttype som på hjemmesiden */\n            background-color: #ffffff; /* Hvid baggrund som Mobilmad */\n            color: #333; /* Standard tekstfarve */\n            margin: 0;\n            padding: 0;\n        }\n        /* Container til indhold */\n        .container {\n            max-width: 1200px; /* Matcher hjemmesidens bredde */\n            margin: 20px auto; /* Centrerer containeren */\n            padding: 20px;\n            background-color: #f9f9f9; /* Lys grå baggrund til kontrast */\n            border-radius: 8px;\n            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Blød skygge for dybde */\n        }\n        /* Overskrift */\n        h1 {\n            text-align: center;\n            color: #333; /* Sort tekstfarve som på Mobilmad */\n            font-size: 2.5em;\n            margin-bottom: 20px;\n        }\n        /* Liste af foodtrucks */\n        .foodtruck-list {\n            list-style: none; /* Ingen punktopstilling */\n            padding: 0;\n            display: flex;\n            flex-wrap: wrap; /* Flexbox layout for responsiv liste */\n            gap: 20px; /* Giver mellemrum mellem listeelementer */\n        }\n        /* Individuelle listeelementer */\n        .foodtruck-list li {\n            background-color: #fff; /* Hvid baggrund for hvert element */\n            flex: 1 1 calc(33.333% - 20px); /* Responsiv bredde for 3 kolonner */\n            margin-bottom: 20px;\n            padding: 15px;\n            border: 1px solid #ddd; /* Lys grå kant */\n            border-radius: 8px;\n            text-align: center;\n            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\n            transition: transform 0.2s, box-shadow 0.2s; /* Glatte animationer */\n        }\n        /* Hover effekt */\n        .foodtruck-list li:hover {\n            transform: translateY(-5px); /* Løfter elementet lidt ved hover */\n            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Større skygge ved hover */\n        }\n        /* Links til foodtrucks */\n        .foodtruck-list li a {\n            text-decoration: none; /* Ingen understregning på links */\n            color: #333; /* Sort tekstfarve som på Mobilmad */\n            font-weight: bold;\n            font-size: 1.2em;\n            display: block;\n            padding: 10px 0; /* Ekstra afstand for klikbare områder */\n        }\n        /* Responsivt design til små skærme */\n        @media (max-width: 768px) {\n            .foodtruck-list li {\n                flex: 1 1 calc(50% - 20px); /* Skifter til 2 kolonner på tablets */\n            }\n        }\n        @media (max-width: 480px) {\n            .foodtruck-list li {\n                flex: 1 1 100%; /* Enkelt kolonne layout på små skærme */\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <h1>Vores Leverandører</h1>\n        <ul class=\"foodtruck-list\">\n            <li><a href=\"https://mobilmad.com/products/arancino-bar\" target=\"_blank\">Arancino Bar</a></li>\n            <li><a href=\"https://mobilmad.com/products/bangkok-take-away\" target=\"_blank\">Bangkok Take Away</a></li>\n            <li><a href=\"https://mobilmad.com/products/burger-trailer\" target=\"_blank\">Burger Trailer</a></li>\n            <li><a href=\"https://mobilmad.com/products/den-gronne-bonne\" target=\"_blank\">Den Grønne Bønne</a></li>\n            <li><a href=\"https://mobilmad.com/products/den-muntre-gris\" target=\"_blank\">Den Muntre Gris</a></li>\n            <li><a href=\"https://mobilmad.com/products/dig-mig\" target=\"_blank\">Dig & Mig</a></li>\n            <li><a href=\"https://mobilmad.com/products/favor-kaffe\" target=\"_blank\">Favør Kaffe</a></li>\n            <li><a href=\"https://mobilmad.com/products/foodtruck-fiesta\" target=\"_blank\">Foodtruck Fiesta</a></li>\n            <li><a href=\"https://mobilmad.com/products/gourmet-polsevogn\" target=\"_blank\">Gourmet Pølsevogn</a></li>\n            <li><a href=\"https://mobilmad.com/products/gaestgivergrillen?keyword=g%C3%A6\" target=\"_blank\">Gæstgivegrillen</a></li>\n            <li><a href=\"https://mobilmad.com/products/nejus?keyword=hil\" target=\"_blank\">Hill's Grill</a></li>\n            <li><a href=\"https://mobilmad.com/products/is-og-kaffe-by-hardis-schmidt?keyword=is%20o\" target=\"_blank\">Is Og Kaffe by Hardis og Schmidt</a></li>\n            <li><a href=\"https://mobilmad.com/products/italian-street-food?keyword=itali\" target=\"_blank\">Italian Street Treats</a></li>\n            <li><a href=\"https://mobilmad.com/products/juras-pancakes\" target=\"_blank\">Jura's Pancakes</a></li>\n            <li><a href=\"https://mobilmad.com/products/kaffe-cyklen\" target=\"_blank\">Kaffe Cyklen</a></li>\n            <li><a href=\"https://mobilmad.com/products/kaffebussen\" target=\"_blank\">Kaffebussen</a></li>\n            <li><a href=\"https://mobilmad.com/products/kaffemanden\" target=\"_blank\">KaffeManden</a></li>\n            <li><a href=\"https://mobilmad.com/products/kebab-company\" target=\"_blank\">Kebab Company</a></li>\n            <li><a href=\"https://mobilmad.com/products/keldspolser-og-vognudlejning?keyword=kel\" target=\"_blank\">Keldspølser og vognudlejning</a></li>\n            <li><a href=\"https://mobilmad.com/products/polse-trailer?keyword=klassi\" target=\"_blank\">Klassisk Pølsevogn</a></li>\n            <li><a href=\"https://mobilmad.com/products/mbludlejning?keyword=mbl\" target=\"_blank\">Mbl Udlejning</a></li>\n            <li><a href=\"https://mobilmad.com/products/mp-catering\" target=\"_blank\">MP Catering</a></li>\n            <li><a href=\"https://mobilmad.com/products/nobel-kaffe\" target=\"_blank\">Nobel Kaffe</a></li>\n            <li><a href=\"https://mobilmad.com/products/pakashala-indisk-kokken\" target=\"_blank\">Pakashala - Indisk Køkken</a></li>\n            <li><a href=\"https://mobilmad.com/products/pandekager\" target=\"_blank\">Pandekager</a></li>\n            <li><a href=\"https://mobilmad.com/products/pizzavogn-arhus?keyword=pizz\" target=\"_blank\">Pizzavogn Århus</a></li>\n            <li><a href=\"https://mobilmad.com/products/smokeren-big-berta?keyword=smoker\" target=\"_blank\">Smokern Big Berta</a></li>\n            <li><a href=\"https://mobilmad.com/products/sunisa-s-streetfood\" target=\"_blank\">Sunisa's Streetfood</a></li>\n            <li><a href=\"https://mobilmad.com/products/the-munch-pit\" target=\"_blank\">The Munch Pit</a></li>\n            <li><a href=\"https://mobilmad.com/products/the-taco-truck\" target=\"_blank\">The Taco Truck</a></li>\n            <li><a href=\"https://mobilmad.com/products/tuttes-pandekager-1\" target=\"_blank\">Tutten Pandekager</a></li>\n            <li><a href=\"https://mobilmad.com/products/zapp-thai\" target=\"_blank\">Zapp Thai</a></li>\n        </ul>\n    </div>\n</body>\n</html>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1688422788fd408864",
+    "custom_liquid_bURWJA"
+  ]
+}
