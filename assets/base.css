@@ -2083,7 +2083,76 @@ input[type='checkbox'] {
 .quantity__input[type='number'] {
   -moz-appearance: textfield;
 }
+/* Style for Number of Persons input */
+.number_of_person {
+  color:rgba(var(--color-foreground));
+  font-family: var(--font-body-family);
+  font-style: var(--font-body-style);
+  font-weight: var(--font-body-weight);
+  font-size: 1.6rem;
+  font-weight: 500;
+  opacity: 0.85;/* Font size */
+  background-color: transparent;
+  border:  1px solid;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  width: 50%;
+  flex-grow: 1;
+  -webkit-appearance: none;
+  appearance: none;
+}
 
+.number_of_person:focus {
+    border-color: solid;     /* Blue border on focus */
+    outline: none;             /* Remove default outline */
+}
+
+/* Style for Date input */
+.date {
+    background-color: transparent; /* Light orange background */
+    border: 1px solid; /* Soft border color */
+    padding: 0.5rem;
+    color:rgba(var(--color-foreground));
+    font-family: var(--font-body-family);
+    font-style: var(--font-body-style);
+    font-weight: var(--font-body-weight);
+    font-size: 1.6rem;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 50%;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.date:focus {
+    border-color: solid;     /* Darker orange on focus */
+    outline: none;
+}
+
+/* Style for Days Needed input */
+.days_needed {
+    background-color: transparent; /* Light blue background */
+    border: 1px solid; /* Soft blue border */
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 50%;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.days_needed:focus {
+    border-color: solid;  
+  box-shadow: inherit; /* Darker blue on focus */
+    outline: none;
+}
+
+.number_of_person:not(:focus-visible):not(.focused), 
+.days_needed:not(:focus-visible):not(.focused),
+.date:not(:focus-visible):not(.focused) {
+  box-shadow: inherit;
+  background-color: inherit;
+}
 /* component-modal */
 .modal__toggle {
   list-style-type: none;
@@ -2955,5 +3024,30 @@ details-disclosure > details {
 
   .localization-form__select:focus {
     outline: transparent solid 1px;
+  }
+}
+/* Media Query for screens 768px or less (Tablets) */
+@media (max-width: 768px) {
+  .number_of_person, .Date, .days_needed {
+      font-size: 14px;        /* Slightly smaller font */
+      padding: 8px;           /* Reduce padding */
+  }
+}
+
+/* Media Query for screens 480px or less (Mobile Phones) */
+@media (max-width: 480px) {
+  .number_of_person, .Date, .days_needed {
+      font-size: 12px;        /* Smaller font for mobile */
+      padding: 6px;           /* Less padding */
+  }
+
+  /* Make labels and inputs stack vertically for better mobile layout */
+  label {
+      display: block;
+      margin-bottom: 5px;
+  }
+
+  div {
+      margin-bottom: 15px;    /* Reduced margin between inputs */
   }
 }
